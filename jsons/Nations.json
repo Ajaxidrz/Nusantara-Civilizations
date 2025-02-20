@@ -529,7 +529,7 @@
 				"All newly-trained [Wali] units [in all cities] receive the [Abangan] promotion <when below [9] [STP-1]> <when above [5] [STP-1]> <hidden from users>",
 				"All newly-trained [Wali] units [in all cities] receive the [Putihan] promotion <when above [8] [STP-1]> <hidden from users>"
 			],
-			"cities": ["Demak","Jepara","Kudus","Rembang","Tingkir","Pajang","Ampel","Gresik","Bangkalan","Mojokerto",
+			"cities": ["Demak","Jepara","Kudus","Rembang","Tingkir","Ambarowo","Pajang","Ampel","Gresik","Mojokerto",
 				"Semarang","Pati","Prawoto","Lasem","Juwana","Tuban","Jipang","Kadiri","Madura","Madiun",
 				"Surabaya","Sidoarjo","Lamongan","Pasuruan","Malang","Sengguruh","Panarukan","Brebes","Cirebon","Banten"],
 			"spyNames": ["Patah","Unus","Penangsang","Ngudung","Fatahillah","Hadiwijaya","Bayat","Kusen","Pandan Arang","Ratna Kencana"]
@@ -600,7 +600,7 @@
 				"[-50]% Unhappiness from [Population] [in puppeted cities]",
 				"[+100]% Production when constructing [Courthouse] buildings [in annexed cities]"
 			],
-			"cities": ["Kutagede","Plered","Kartasura","Klaten","Yogyakarta","Solo","Salatiga","Kulonprogo","Bantul","Sleman",
+			"cities": ["Kutagede","Plered","Kartasura","Klaten","Yogyakarta","Solo","Salatiga","Ambarawa","Kulonprogo","Bantul","Sleman",
 				"Gunungkidul","Magelang","Rembang","Jepara","Semarang","Pekalongan","Tegal","Banyumas","Pacitan","Madiun",
 				"Kadiri","Blitar","Batu","Malang","Mojokerto","Pasuruan","Surabaya","Probolinggo","Madura","Cirebon",
 				"Banjar","Tasikmalaya","Bandung","Cimahi","Bekasi","Bogor","Depok","Karawang","Cianjur","Sukadana"],
